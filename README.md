@@ -1,5 +1,5 @@
 # Queue Manager | Description
-This package allows you to limit the number of simultaneously executed goroutines and ensures that no more than N goroutines will be executed at the same time.
+This package allows you to limit the number of simultaneously executed goroutines and ensures that no more than N goroutines will be executed at the same time. This mini-library uses buffered channels to create queues.
 
 # How to use?
 
