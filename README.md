@@ -1,6 +1,6 @@
 # Queue Manager | Description
----
 This package allows you to limit the number of simultaneously executed goroutines and ensures that no more than N goroutines will be executed at the same time.
+
 # How to use?
 
 ```go
